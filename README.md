@@ -35,7 +35,9 @@ Neste repositório, estará disponível o passo-a-passo para os calouros (ou vet
 
 <h1> Instalação</h1>  <img align="center" src="https://tlauncher.org/fav-icon-512.png" alt="Girl in a jacket" width="80" height="80"><img align="center" src="http://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c7/Grass_Block.png/revision/latest/scale-to-width-down/268?cb=20230226144250" alt="Girl in a jacket" width="90" height="90">
 
-  Acessando o site do _[TLauncher](https://tlauncher.org/)_ você verá um botão escrito **Download TL** ...
+Acessando o site do _[TLauncher](https://tlauncher.org/)_ você verá um botão escrito **Download TL** ...
+
+>Se preferir, baixe o .zip anexado neste repositório
   
   Como estamos no Linux selecionamos a opção **TLauncher for Linux** ...
   
