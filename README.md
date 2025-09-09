@@ -79,9 +79,13 @@ Provavelmente estará disponível a o arquivo **.jar**
 
 Agora a brincadeira começa ... "chmod +x TLauncher.jar" para dar permissão total sobre o arquivo 
 
-E por fim ... "java -jar TLauncher.jar"
+E por fim ... "java -jar TLauncher.jar" e dê Enter
 > E não feche o terminal!
 
+
+<h2>Ao final do processo, seria assim: </h2>
+
+<img width="1213" height="505" alt="Image" src="https://github.com/user-attachments/assets/40db6fd1-6a04-458c-963a-7e6272109d0a" />
 
 
 
